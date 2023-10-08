@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajmal338
-- 👀 I’m interested in ... open source software and penetration testing/ product design and development.
-- 🌱 I’m currently learning ... how to build and protect client-based software/ Mobile app development (security features).
-- 💞️ I’m looking to collaborate on ... projects that entail development of user authorization and front-end development.
+- 👀 I’m interested in ... open source software and penetration testing/ AI.
+- 🌱 I’m currently learning ... Cyber Security Certs/ and looking to complete COMPTIA A+ in the near future.
+- 💞️ I’m looking to collaborate on ... projects that entail development of user authorization and risk management.
 - 📫 How to reach me ... https://www.linkedin.com/in/aam24/
 
 <!---
